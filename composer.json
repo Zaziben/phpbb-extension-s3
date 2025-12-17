@@ -36,7 +36,7 @@
             "filename": "version_check"
         },
         "soft-require": {
-			"phpbb/phpbb": ">=3.2.0"
+			"phpbb/phpbb": "~3.2.0"
 		}
     }
 }
