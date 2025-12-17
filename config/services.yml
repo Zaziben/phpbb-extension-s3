@@ -1,5 +1,5 @@
 services:
-    AustinMaddox.s3.listener:
+    austinmaddox.s3.listener:
         class: austinmaddox\s3\event\main_listener
         arguments:
             - @config
